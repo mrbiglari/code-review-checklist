@@ -50,7 +50,7 @@ Code review is a dynamic which allow for team members to proofread each other’
 
 ## Acceptable
 When reviewing someone else's code:
-- It is acceptable to pass on comments on _standards_. 📐 Coding standards are a set of measurable code quality requirements which is agreed upon by a group of developers that includes both the reviewer and code author. It is important to distinguish coding standards from coding preferences.
+- It is acceptable to pass on comments on _standards_. 📐  It is important to distinguish coding standards from coding preferences. Coding standards are a set of measurable code quality requirements which is agreed upon by a group of developers that includes both the reviewer and code author.
 
 ## Not Acceptable
 When reviewing someone else's code: 
